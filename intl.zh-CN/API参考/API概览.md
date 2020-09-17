@@ -1,6 +1,6 @@
 # API概览
 
-VPN网关提供如下API供您使用。VPN网关的API服务地址为`vpc.aliyuncs.com`，参考VPC API文档调用VPN网关API。
+VPN网关提供如下API供您使用。VPN网关的API服务地址为`vpc.aliyuncs.com`，请参考VPC API文档调用VPN网关API。
 
 ## VPN网关
 
@@ -11,6 +11,9 @@ VPN网关提供如下API供您使用。VPN网关的API服务地址为`vpc.aliyun
 |[t2557.md\#](/intl.zh-CN/API参考/VPN网关/DescribeVpnGateways.md)|查询已创建的VPN网关。|
 |[t2757.md\#](/intl.zh-CN/API参考/VPN网关/DescribeVpnGateway.md)|查询指定VPN网关的详细信息。|
 |[t2559.md\#](/intl.zh-CN/API参考/VPN网关/DeleteVpnGateway.md)|删除VPN网关。|
+|[TagResources](/intl.zh-CN/API参考/标签/TagResources.md)|为指定的资源统一创建并绑定标签。|
+|[ListTagResources](/intl.zh-CN/API参考/标签/ListTagResources.md)|查询云资源已经绑定的标签列表。|
+|[UnTagResources](/intl.zh-CN/API参考/标签/UnTagResources.md)|为指定的资源列表统一解绑标签。|
 
 ## 用户网关
 
