@@ -55,9 +55,5 @@ BGP动态路由具有以下能力：
 
 ## 使用教程
 
-使用BGP动态路由建立VPC到本地数据中心的VPN连接的配置步骤如下所示。
-
-![配置步骤](https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/3209858951/p113238.png)
-
-[建立VPC到本地数据中心的连接（BGP动态路由）](/cn.zh-CN/IPsec-VPN入门/建立VPC到本地数据中心的连接（BGP动态路由）.md)
+操作详情，请参见[建立VPC到本地数据中心的连接（BGP动态路由）](/cn.zh-CN/IPsec-VPN入门/建立VPC到本地数据中心的连接（BGP动态路由）.md)
 
